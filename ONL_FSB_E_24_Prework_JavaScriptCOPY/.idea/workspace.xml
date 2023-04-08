@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01009940-abf8-4054-83db-cea45fd8d198" name="Changes" comment="" />
+    <list default="true" id="01009940-abf8-4054-83db-cea45fd8d198" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/02_Tablice/02_Zadanie_2/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_Tablice/02_Zadanie_2/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -39,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/griegoriens/ONL_FSB_E_24_Prework_JavaScript",
+    "last_opened_file_path": "/home/griegoriens/WebstormProjects/ONL_FSB_E_24_Prework_JavaScriptCOPY",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +63,7 @@
       <workItem from="1680193142804" duration="2158000" />
       <workItem from="1680196948209" duration="2589000" />
       <workItem from="1680200177241" duration="187000" />
+      <workItem from="1680980614038" duration="68000" />
     </task>
     <servers />
   </component>
