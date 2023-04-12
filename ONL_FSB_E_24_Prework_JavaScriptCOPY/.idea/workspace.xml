@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01009940-abf8-4054-83db-cea45fd8d198" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_DOM_i_Zdarzenia/03_Zadanie_3/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/04_DOM_i_Zdarzenia/03_Zadanie_3/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/griegoriens/WebstormProjects/ONL_FSB_E_24_Prework_JavaScript",
+    "last_opened_file_path": "/home/griegoriens/WebstormProjects/ONL_FSB_E_24_Prework_JavaScriptCOPY",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,7 +66,8 @@
       <workItem from="1680200177241" duration="187000" />
       <workItem from="1680980614038" duration="282000" />
       <workItem from="1681033405898" duration="845000" />
-      <workItem from="1681207581473" duration="2405000" />
+      <workItem from="1681207581473" duration="2576000" />
+      <workItem from="1681327724832" duration="21000" />
     </task>
     <servers />
   </component>
