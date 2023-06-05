@@ -1,1 +1,1 @@
-# ONL_FSB_E_24_JavaScriptCOPY
+# reduxTraining
