@@ -1,2 +1,3 @@
 # reduxTraining
 # reduxTraining
+# weatherAPIcopy
